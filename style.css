@@ -1,0 +1,26 @@
+.head {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chocolate;
+    box-shadow: 1px 1px chocolate;
+    width: fit-content;
+}
+
+body {
+    background: yellow;
+    color: rgb(215, 102, 22);
+}
+
+.note {
+    background-color: yellow;
+    color: brown;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 3px 3px 3px brown;
+}
+
+canvas {
+    background: blanchedalmond;
+    color: rgb(14, 13, 13);
+    border-radius: 40px;
+    box-shadow: 3px 2px 1px rgb(14, 13, 13);
+}
